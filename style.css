@@ -21,13 +21,13 @@ h2 {
 
 h3 {
   font-size: 25px;
-   bottem-border: 2 px;
+   border-bottom: 5px solid #000000;
 }
 
 h4 {
   font-size:20px;
   margin-bottom:-10px;
-  bottem-border: 2 px;
+  border-bottom: 5px solid #000000;
  
 }
 
