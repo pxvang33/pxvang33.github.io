@@ -1,12 +1,10 @@
-html {
-  background-image: url("http://blog.visme.co/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-037.jpg")
-}
 
 body {
   
   margin-top: 30px;
   margin-left: 200px;
   margin-right: 200px;
+  background-color: #cccccc;
   font-size: 14px;
 }
 
