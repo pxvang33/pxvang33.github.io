@@ -3,7 +3,7 @@ body {
   margin-left: 200px;
   margin-right: 200px;
   background-color: #B0C4DE;
-  
+  font-size: 12px;
 }
 
 h1 {
@@ -23,8 +23,8 @@ h4 {
 }
 
 h5 {
-  font-size:16px;
+  font-size:18px;
   
   
 }
-font { font-size: 12px; }
+
