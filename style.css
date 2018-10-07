@@ -6,12 +6,15 @@ body {
   text-align: center;
   
 }
-
+h1{
+font-size:15px;
+}
+  
 h3 {  
-  font-size: 15px;
+  font-size: 12px;
 }
 
 h4 {
-  font-size:15px;
+  font-size:12px;
   font-weight: bold;
 }
